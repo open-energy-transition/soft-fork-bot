@@ -34,7 +34,7 @@ git remote update  # TODO only fetch UPSTREAM_BRANCH?
 
 # Configure commit author details
 git config --global user.email "<>" # This commit author has no email
-git config --global user.name "Upstream Merge Bot"
+git config --global user.name "Soft Fork Bot"
 git config --list
 
 # Extract the host where the server is running, and add the URL to the APIs
